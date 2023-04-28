@@ -1,0 +1,20 @@
+{
+    "type": "mod",
+    
+    "all_files":
+    [
+        "file_1",
+        "file_2"
+
+    ],
+    "file_path_start": 
+    [
+        "root/path/to/file_start_1",
+        "root/path/to/file_start_2"
+    ],
+    "file_path_destenation":
+    [
+        "MCLG_root/path/to/file_destenation_1",
+        "MCLG_root/path/to/file_destenation_2"
+    ]
+}
